@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    /* margin: 16px 8px; */
+    /* margin-top: 8px;
+    margin-right: 10px;
+    margin-bottom: 12px;
+    margin-left: 14px; */
+    /* margin: 8px 10px 12px 14px; */
+}
+p {
+    /* padding: 24px 8px; */
+    /* padding-top: 8px;
+    padding-right: 10px;
+    padding-bottom: 12px;
+    padding-left: 14px; */
+    /* padding: 8px 10px 12px 14px; */
+}
+/* a {
+    display: inline-block;
+
+    text-decoration: none;
+    color: black;
+
+    padding: 8px;
+    margin-left: 8px;
+    border: 1px solid green;
+    border-radius: 4px;
+} */
+
+/* div {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(182, 140, 221);
+    border: 3px solid black;
+}
+section {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+} */
+
+header {
+    width: 100%;
+    background-color: #FFFFFF;
+}
+.vans-logo {
+    width: 80px;
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 16px;
+}
+.navbar ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+.navbar ul li {
+    list-style: none;
+}
+.navbar-link {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+}
+
+.card-container {
+    margin: 32px 32px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 32px;
+}
+
+
+/* Estilado de la card */
+.card {
+    padding: 16px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 300px;
+}
+.card h4 {
+    text-align: center;
+}
+.card img {
+    width: 100%;
+}
+.card h5 {
+    margin: 16px 0px;
+}
+.card-button {
+    text-decoration: none;
+    color: black;
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: inline-block;
+}

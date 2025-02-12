@@ -1,0 +1,7 @@
+bootstrap es framework(no es lo mismo que una libreria)
+una librería es mas chico, es darle una solución mas rápido y eficiente = soluciona un problema puntual
+Framework tiene su propia identidad
+
+nuestro css va penúltimamente porque es en cascada y bbotstrap lo sobreescribe a nuestro archivo 
+
+*Una nav de bootstrap* = para el proyecto
