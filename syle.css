@@ -1,0 +1,19 @@
+body {
+  background-color: blue;
+}
+
+header {
+  width: 20px;
+}
+header nav {
+  padding: 10px;
+  margin-right: 30px;
+}
+header nav ul {
+  justify-content: space-around;
+}
+header nav ul li {
+  list-style: none;
+}
+
+/*# sourceMappingURL=syle.css.map */

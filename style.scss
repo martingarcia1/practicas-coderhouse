@@ -1,0 +1,19 @@
+$primary-color: blue;
+
+body{
+    background-color: $primary-color ;
+}
+
+header {
+    width: 20px;
+    nav{
+        padding: 10px;
+        margin-right: 30px;
+        ul{
+            justify-content: space-around;
+            li{
+                list-style: none;
+            }
+        }
+    }
+}
